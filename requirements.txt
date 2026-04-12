@@ -1,0 +1,12 @@
+# Core runtime
+numpy>=1.24
+torch>=2.2
+scipy>=1.10
+
+# Visualization and reporting
+matplotlib>=3.7
+seaborn>=0.12
+tensorboard>=2.14
+
+# Optional acceleration backend (falls back automatically if unavailable)
+# mamba-ssm>=2.2
